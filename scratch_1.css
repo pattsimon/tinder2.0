@@ -1,0 +1,199 @@
+body {
+    padding: 0 30px;
+    font-size: 16px;
+    line-height: 26px;
+    background-image: url(background.jpg);
+    background-size: 1940px 1200px;
+
+}
+
+header {
+    text-align: left;
+    margin-bottom: 60px;
+    color: white;
+    font-family: Impact, fantasy;
+}
+
+#reg {
+    font-family: Arial, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.reg_main{
+    text-align: center;
+    border-radius: 15px;
+    margin: auto;
+    padding-top: 0;
+    height: 900px;
+    width: 400px;
+    background-color: #306ac5;
+    border: 5px solid #144796;
+    color: #ffffff;
+}
+
+.headd{
+    display: flex;
+}
+
+.div1{
+    display: inline-block;
+    float: right;
+    margin-right: 800px;
+    margin-top: 5px;
+}
+
+.div2{
+    display: inline-block;
+    float: left;
+    margin-left: 800px;
+    margin-top: 5px;
+}
+h1 {
+    font-size: 50px;
+    line-height: normal;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.logo{
+    margin-top: 45px;
+    display: inline-block;
+    height: 45px;
+    width: auto;
+}
+h2 {
+    font-size: 20px;
+    line-height: normal;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+}
+
+h3{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.main_nav{
+    margin-top: -80px;
+    background-position: center;
+    background-image: url(ssDygsQAjD8.jpg);
+    background-size: 480px 730px;
+    border-radius: 15px;
+    height: 550px;
+    width: 400px;
+    background-color: #306ac5;
+    border: 5px solid #144796;
+    color: #ffffff;
+}
+
+.main1_nav{
+    margin-top: -80px;
+    background-position: center;
+    background-image: url(7B8z_4f-JQI.jpg);
+    background-size: 480px 730px;
+    border-radius: 15px;
+    height: 550px;
+    width: 400px;
+    background-color: #306ac5;
+    border: 5px solid #144796;
+    color: #ffffff;
+}
+
+.main2_nav{
+    margin-top: -80px;
+    background-position: center;
+    background-image: url(ыаываыва.png);
+    background-size: 480px 730px;
+    border-radius: 15px;
+    height: 550px;
+    width: 400px;
+    background-color: #306ac5;
+    border: 5px solid #144796;
+    color: #ffffff;
+}
+.text{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.text_up{
+    font-family: Arial,sans-serif;
+    padding-left: 10px;
+    margin-top: -15px;
+}
+.block{
+    height: 350px;
+    width: 460px;
+    background:  linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0));
+    border-radius: 15px;
+    margin-top: 230px;
+    margin-left: -30px;
+}
+
+.strokavvoda{
+    border-radius: 8px;
+    width: 170px;
+    height: 20px;
+}
+.button_back{
+    background: linear-gradient(#178be5, #6fd0d0);
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    border-color: rgba(0, 0, 0, 0);
+}
+.button{
+    background: linear-gradient(#52a5e0, #EBFFFF);
+    border-radius: 8px;
+    width: 180px;
+    height: 30px;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.sign_up{
+    float: right;
+    margin-right: 35px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+
+}
+.sign_in{
+    float: left;
+    margin-left: 45px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+
+}
+.regi{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 0;
+}
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+nav{
+    border-radius: 15px;
+    margin: auto;
+    padding: 30px;
+    height: 300px;
+    width: 400px;
+    background-color: #306ac5;
+    border: 5px solid #144796;
+    color: #ffffff;
+}
+.page-title {
+    font-size: 36px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+
+
